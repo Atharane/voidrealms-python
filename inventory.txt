@@ -1,0 +1,1 @@
+{"Snicker": 12, "Gumball": 14, "Granola bar": 6, "Toblerone": 16}
